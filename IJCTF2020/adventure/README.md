@@ -108,3 +108,8 @@ With some imagination, you can see the text ```IROK``` , a character of Ready pl
 
 The final flag can now be submitted:
 ```IJCTF{kn4ps4ck_brut3_f0rrc3_u1t1m4t3_g4m3_0f_l1f3_IROK}```
+
+## Participants
+| ![image](https://github.com/andrea-mengascini.png?size=200) | ![image](https://github.com/Bonfee.png?size=200) | <img src="https://github.com/timmykill.png" height=200 width=200> | <img src="https://github.com/Anatr1.png" height=200 width=200> |
+| ------------- | ------------- | ------------- | ------------- |
+| [@aandryyy](https://github.com/andrea-mengascini) | [@bonfee](https://github.com/Bonfee)  | [@timmykill](https://github.com/timmykill) | [@H4R](https://github.com/Anatr1) |
